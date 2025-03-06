@@ -1,6 +1,6 @@
 ## What it is
 
-This repository is a pytorch version multi-gpu KP_Pyramid for point cloud data processing (some codes haven't been released now). We will release a clean version of code later, you can refer to a new version for training then.
+This repository is a pytorch version multi-gpu KP_Pyramid for point cloud data processing (some codes haven't been released now). 
 
 ## How to train
 
